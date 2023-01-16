@@ -1,0 +1,12 @@
+@keyframes three_sixty_turn {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.rotation {
+  animation: three_sixty_turn 20s linear infinite;
+}
