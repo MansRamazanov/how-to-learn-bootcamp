@@ -2,7 +2,3 @@
   list-style-type: none;
   margin-bottom: 16px;
 }
-
-.footer__list:last-child {
-  margin-bottom: 0;
-}
